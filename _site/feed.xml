@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-09-26T01:22:54+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">LONG</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Blog2!</title><link href="http://localhost:4000/article/2020/09/25/Blog2nd.html" rel="alternate" type="text/html" title="Blog2!" /><published>2020-09-25T12:00:06+07:00</published><updated>2020-09-25T12:00:06+07:00</updated><id>http://localhost:4000/article/2020/09/25/Blog2nd</id><content type="html" xml:base="http://localhost:4000/article/2020/09/25/Blog2nd.html">&lt;h2&gt;Bai 2&lt;/h2&gt;
+
+&lt;p&gt;Là bài thơ anh kể về đôi dép &lt;br /&gt;
+Khi nỗi nhớ trong lòng da diết &lt;br /&gt;
+Những vật tầm thường cũng viết thành thơ&lt;/p&gt;
+
+&lt;p&gt;Hai chiếc dép kia gặp nhau tự bao giờ &lt;br /&gt;
+Có yêu nhau đâu mà chẳng rời nửa bước &lt;br /&gt;
+Cùng gánh vác những nẻo đường xuôi ngược &lt;br /&gt;
+Lên thảm nhung, xuống cát bụi cùng nhau ... &lt;/p&gt;</content><author><name></name></author><category term="article" /><summary type="html">Bai 2</summary></entry><entry><title type="html">Bài thơ Đôi Dép!</title><link href="http://localhost:4000/article/2020/09/25/Blog1st.html" rel="alternate" type="text/html" title="Bài thơ Đôi Dép!" /><published>2020-09-25T12:00:06+07:00</published><updated>2020-09-25T12:00:06+07:00</updated><id>http://localhost:4000/article/2020/09/25/Blog1st</id><content type="html" xml:base="http://localhost:4000/article/2020/09/25/Blog1st.html">&lt;h2&gt;Đôi Dép&lt;/h2&gt;
+
+&lt;p&gt;Là bài thơ anh kể về đôi dép &lt;br /&gt;
+Khi nỗi nhớ trong lòng da diết &lt;br /&gt;
+Những vật tầm thường cũng viết thành thơ&lt;/p&gt;
+
+&lt;p&gt;Hai chiếc dép kia gặp nhau tự bao giờ &lt;br /&gt;
+Có yêu nhau đâu mà chẳng rời nửa bước &lt;br /&gt;
+Cùng gánh vác những nẻo đường xuôi ngược &lt;br /&gt;
+Lên thảm nhung, xuống cát bụi cùng nhau ... &lt;/p&gt;</content><author><name></name></author><category term="article" /><summary type="html">Đôi Dép</summary></entry></feed>
